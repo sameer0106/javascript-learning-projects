@@ -1,0 +1,122 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-self: center;
+  background-color: rgb(211, 220, 220);
+}
+
+.container {
+  width: 70vmin;
+  margin: 2rem;
+  padding: 2rem;
+  background-color: rgb(211, 225, 249);
+  border: 1px solid rgb(211, 187, 187);
+  border-radius: 20px;
+  box-shadow: 18px 22px 22px 1px rgb(123, 141, 153);
+}
+
+/* .container:hover {
+  background-color: rgb(227, 237, 254);
+} */
+
+h2 {
+  justify-self: center;
+  color: rgb(84, 50, 177);
+}
+
+form {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding: 2rem 0 2rem 0;
+}
+
+.amount p {
+  padding: 0.5rem 0 0.5rem 0;
+  color: rgb(107, 105, 104);
+}
+
+.amount .warn {
+  color: red;
+}
+
+input {
+  width: 100%;
+  padding: 0.3rem;
+  background-color: rgb(229, 237, 254);
+  border: 1px solid rgb(182, 189, 191);
+  border-radius: 5px;
+}
+
+.dropdown {
+  padding: 2rem 0 1rem 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dropdown p {
+  margin-left: 1.5rem;
+}
+
+.dropdown i {
+  color: rgb(66, 118, 201);
+}
+
+.from,
+.to {
+  color: rgb(107, 105, 104);
+}
+
+.from p,
+.to p {
+  margin-left: 13px;
+}
+
+.select-container {
+  width: 28vmin;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* border-radius: 66px; */
+  box-shadow: 7px 11px 13px 3px rgb(96, 175, 218);
+}
+
+.select-container img {
+  width: 10vmin;
+}
+
+.select-container select {
+  border-radius: 6rem;
+  width: 50%;
+  background-color: rgb(203, 237, 248);
+  height: 5vmin;
+  justify-content: space-between;
+}
+
+.msg {
+  justify-self: center;
+  margin-top: 2rem;
+  color: rgb(12, 45, 12);
+}
+
+#btn {
+  display: block; /* inline button ko block bana do */
+  margin: 20px auto; /* left & right auto hone se center ho jayega */
+  padding: 10px 20px;
+  font-size: 3vmin;
+  color: rgb(45, 93, 132);
+  background-color: rgb(148, 176, 220);
+  border: 1px rgb(94, 112, 130);
+  /* border-radius: 66px; */
+  box-shadow: 11px 11px 12px 1px rgb(102, 160, 191);
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#btn:hover {
+  background-color: rgb(177, 195, 225);
+}
