@@ -6,7 +6,7 @@ A classic Tic Tac Toe game built using HTML, CSS, and JavaScript. Features a cle
 A simple and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**.  
 This project demonstrates core front-end concepts such as DOM manipulation, event handling, and basic game logic.
 
----
+![image alt](https://github.com/sameer0106/javascript-learning-projects/blob/3c6b4da319c2345790194932f5ece719be8e4e4c/TicTacToeGame/UI%20screenshot/tic-tac-toe.png)
 
 ## ✨ Features
 - Two-player gameplay (X vs O)
@@ -22,5 +22,6 @@ This project demonstrates core front-end concepts such as DOM manipulation, even
 - **HTML** – Structure of the game  
 - **CSS** – Styling and layout  
 - **JavaScript** – Game logic and interactivity  
+
 
 ---
