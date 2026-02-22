@@ -3,7 +3,8 @@
 A simple browser-based Rock Paper Scissors game built using HTML, CSS, and JavaScript.  
 The player competes against the computer with real-time score updates and result messages.
 
----
+UI screen :
+![image alt](https://github.com/sameer0106/javascript-learning-projects/blob/09a81b038bac5a5344be636e45182c0145bfd793/RockPaperSciessorsGame/UI%20ScreenShot/rock-paper-sciessor.png)
 
 ## 🎮 Features
 
@@ -74,3 +75,4 @@ OR run using Live Server in VS Code.
 ## 👤 Author
 
 sameer dhindhe
+
