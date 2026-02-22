@@ -39,9 +39,7 @@ Currency-Converter/
 
 ## 📸 Preview
 
-![Currency Converter Preview](screenshot.png)
-
----
+![image alt]([screenshot.png](https://github.com/sameer0106/javascript-learning-projects/blob/19ccc353082ec17cf7eab9219dc227f55c42a461/CurrencyConverter-JS/UI%20ScreenShot/currency-converter.png))
 
 ## ⚙️ How to Run the Project
 
@@ -85,3 +83,4 @@ This project is open-source and available under the MIT License.
 ## 👨‍💻 Author
 sameer dhindhe
 Made with ❤️ using HTML, CSS & JavaScript.
+
